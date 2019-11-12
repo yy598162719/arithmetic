@@ -25,6 +25,8 @@ class Solution {
     }
 
     public static void main(String[] args) {
+        int b=5/3;
+        int c=4/3;
         int[] a={2,3,1,2,4,3};
         int i = minSubArrayLen(7, a);
     }
